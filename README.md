@@ -1,6 +1,8 @@
 # QrCodeScannerandApplicationOverlayApp
 QR CODE SCANNER APP ALONGSIDE WIDGET OVERLAY APP
 
+Android app that scans Qr code and shows the result as a text, also an app that shows Widget AppOverlay on the screen
+
 ![Screenshot_20210704-160813_QrCodeScannerandApplicationOverlayApp](https://user-images.githubusercontent.com/44091450/124390284-ad47b280-dc9f-11eb-8f05-95f071e178a2.jpg)
 ![Screenshot_20210704-160502_QrCodeScannerandApplicationOverlayApp](https://user-images.githubusercontent.com/44091450/124390320-da946080-dc9f-11eb-9cab-d6a7ffcf5f3f.jpg)
 ![Screenshot_20210704-160711_QrCodeScannerandApplicationOverlayApp](https://user-images.githubusercontent.com/44091450/124390287-b6388400-dc9f-11eb-9ab9-c121c6f1e979.jpg)
